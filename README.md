@@ -120,7 +120,6 @@ I have prepared this list from my Facebook Note  <a href="https://www.facebook.c
 - https://github.com/DonJayamanne/pythonVSCode/wiki/Miscellaneous#select-an-interpreter
 - https://github.com/pypa
 - https://developers.google.com/youtube/iframe_api_reference
-- Nice
 - https://ponyorm.com/
 - https://github.com/python273/vk_api
 - https://github.com/realpython/list-of-python-api-wrappers#mercury---take-any-web-article-and-return-only-the-relevant-content
