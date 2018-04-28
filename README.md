@@ -10,7 +10,7 @@
 
 😎 List of awesome Python modules Github repositories & APIs 😎
 
-I have prepared this list from my Facebook Note  ![Python API and Modules](https://www.facebook.com/notes/gaurav-singh/python-api-and-modules/1316467778409238/) 
+I have prepared this list from my Facebook Note  <a href="https://www.facebook.com/notes/gaurav-singh/python-api-and-modules/1316467778409238/">Python API and Modules</a>
 
 >
 
