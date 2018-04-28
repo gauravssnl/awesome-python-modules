@@ -5,11 +5,11 @@
 	<br>
 </div>
 
-# Awesome Symbian [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Python Modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-😎 List of awesome Symbian Github repositories, blogs & other related resources 😎
+😎 List of awesome Python modules Github repositories & APIs 😎
 
-I have prepared this list from my Facebook Note ![Python API and Modules](https://www.facebook.com/notes/gaurav-singh/python-api-and-modules/1316467778409238/) 
+I have prepared this list from my Facebook Note  ![Python API and Modules](https://www.facebook.com/notes/gaurav-singh/python-api-and-modules/1316467778409238/) 
 
 >
