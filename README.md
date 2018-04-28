@@ -1,5 +1,5 @@
 # awesome-python-modules
-> List of Python modules Github repositories,  &amp; APIs
+> List of Python modules Github repositories &amp; APIs
 <div align="center">
 	<img width="400" src="https://github.com/gauravssnl/awesome-python-modules/blob/master/awesome.svg" alt="awesome">
 	<br>
