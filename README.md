@@ -14,7 +14,6 @@ I have prepared this list from my Facebook Note  <a href="https://www.facebook.c
 
 >
 
-- Lib : https://github.com/python-git/python/tree/master/Lib
 - httphq : https://github.com/Lispython/httphq
 - httpie : https://github.com/kracekumar/httpie
 - httpie : https://github.com/jkbrzt/httpie
@@ -1715,7 +1714,7 @@ https://github.com/cockroachdb/cockroachdb-python
 - OAuth + JupyterHub Authenticator = OAuthenticator  https://github.com/jupyterhub/oauthenticator
 - Multi-user server for Jupyter notebooks https://github.com/jupyterhub/jupyterhub
 - Turn git repositories into Jupyter enabled Docker Images  https://github.com/jupyter/repo2docker
-- index.ipynb : https://github.com/minrk/ligo-binder/blob/master/index.ipynb
+- BINARY BLACK HOLE SIGNALS IN LIGO OPEN DATA : https://github.com/minrk/ligo-binder/blob/master/index.ipynb
 - warn : https://github.com/Carreau/warn
 - Q11_languages.ipynb : https://github.com/labarba/NSFcommittee-SI2017/blob/master/Q11_languages.ipynb
 - ligo-binder : https://github.com/minrk/ligo-binder
