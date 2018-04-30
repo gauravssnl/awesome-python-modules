@@ -105,7 +105,7 @@ I have prepared this list from my Facebook Note  <a href="https://www.facebook.c
 - HTTPretty : https://github.com/gabrielfalcao/HTTPretty
 - hawkpost : https://github.com/whitesmith/hawkpost
 - python-php : https://github.com/joshmaker/python-php
-- 814831 : https://gist.github.com/huyng/814831
+- A simple echo server to inspect http web requests : https://gist.github.com/huyng/814831
 - http://www.google.co.in/search?client=ms-opera-mini&channel=new&gws_rd=cr&hl=en&ie=UTF-8&q=Simple+Server+github+python+
 - proxy2.py : https://github.com/inaz2/proxy2/blob/master/proxy2.py
 - proxy.py : https://github.com/abhinavsingh/proxy.py
@@ -120,13 +120,12 @@ I have prepared this list from my Facebook Note  <a href="https://www.facebook.c
 - Miscellaneous#select-an-interpreter : https://github.com/DonJayamanne/pythonVSCode/wiki/Miscellaneous#select-an-interpreter
 - pypa : https://github.com/pypa
 - iframe_api_reference : https://developers.google.com/youtube/iframe_api_reference
-- Nice
 - ponyorm.com : https://ponyorm.com/
 - vk_api : https://github.com/python273/vk_api
 - list-of-python-api-wrappers#mercury---take-any-web-article-and-return-only-the-relevant-content : https://github.com/realpython/list-of-python-api-wrappers#mercury---take-any-web-article-and-return-only-the-relevant-content
 - birdy : https://github.com/inueni/birdy
 - python-bitcoinlib : https://github.com/petertodd/python-bitcoinlib
-- doc : http://laanwj.github.io/bitcoin-python/doc/
+- bitcoin-python doc : http://laanwj.github.io/bitcoin-python/doc/
 - box-python-sdk : https://github.com/box/box-python-sdk
 - Python 2 evernote : https://github.com/evernote/evernote-sdk-python
 - pyfacebook : https://github.com/sciyoshi/pyfacebook/
@@ -178,7 +177,7 @@ https://github.com/rocky/python-uncompyle6/
 - TrendingGithub : https://github.com/andygrunwald/TrendingGithub
 - unikovcode : https://github.com/amake/unikovcode
 - httplib2 : https://github.com/jcgregorio/httplib2
-- stable : https://virtualenv.pypa.io/en/stable/
+- vitualenv-stable : https://virtualenv.pypa.io/en/stable/
 - virtualenv : https://github.com/pypa/virtualenv
 - Flexget : https://github.com/Flexget/Flexget
 - P0cL4bs : https://github.com/P0cL4bs
@@ -198,7 +197,7 @@ https://github.com/rocky/python-uncompyle6/
 - visualize.html : http://www.pythontutor.com/visualize.html
 - simpleisbetterthancomplex.com : https://simpleisbetterthancomplex.com/
 - http://www.google.co.in/search?q=matplotlib+installation+via+pip+&client=ms-opera-mini&channel=new&gws_rd=cr&ei=QIWMWI2sIYSFmwGe27CoBg
-- latest : https://curio.readthedocs.io/en/latest/
+- curio : https://curio.readthedocs.io/en/latest/
 - python-resources.html : http://pybit.es/python-resources.html
 - python-pentest-tools : https://github.com/dloss/python-pentest-tools
 - fbchat : https://github.com/carpedm20/fbchat/
@@ -209,7 +208,7 @@ https://github.com/rocky/python-uncompyle6/
 - pyporting.html : https://docs.python.org/3/howto/pyporting.html
 - compatible_idioms.html : http://python-future.org/compatible_idioms.html
 - unmessage : https://github.com/AnemoneLabs/unmessage
-- index.html : http://www.scipy-lectures.org/index.html
+- scipy-lectures : http://www.scipy-lectures.org/index.html
 - pyguide.html : https://google.github.io/styleguide/pyguide.html
 - elements-of-python-style : https://github.com/amontalenti/elements-of-python-style
 - pyrsistent : https://github.com/tobgu/pyrsistent
@@ -248,17 +247,17 @@ https://github.com/awkman/pywifi
 - contributing-hugh-lib : https://www.vinta.com.br/blog/2017/contributing-hugh-lib/
 - theastrologer : https://github.com/sandipbgt/theastrologer
 - i_want_to_save_you_the_time_of_reading_this : https://www.reddit.com/r/Python/comments/5u64sd/i_want_to_save_you_the_time_of_reading_this/
-- ultrajson#benchmarks : https://github.com/esnme/ultrajson#benchmarks
-- statistics.html : https://docs.python.org/3/library/statistics.html
-- gettext.html : https://docs.python.org/3/library/gettext.html
+- ultrajson : https://github.com/esnme/ultrajson#benchmarks
+- statistics : https://docs.python.org/3/library/statistics.html
+- gettext : https://docs.python.org/3/library/gettext.html
 - poedit.net : https://poedit.net/
-- trans_real.py#L90 : https://github.com/django/django/blob/1.10.3/django/utils/translation/trans_real.py#L90
+- trans_real.py : https://github.com/django/django/blob/1.10.3/django/utils/translation/trans_real.py#L90
 - py-hello-l10n : https://github.com/vanadium23/py-hello-l10n
 - DjangoBlog : https://github.com/liangliangyy/DjangoBlog
 - shadowsocks : https://github.com/shadowsocks/shadowsocks
 - scikit-plot : https://github.com/reiinakano/scikit-plot
 - curio : https://github.com/dabeaz/curio
-- stable : https://schedule.readthedocs.io/en/stable/
+- schedule : https://schedule.readthedocs.io/en/stable/
 - cherrypy.org : http://cherrypy.org/
 - pytricia : https://github.com/jsommers/pytricia
 - twitter-photos : https://github.com/shichao-an/twitter-photos
@@ -283,10 +282,10 @@ https://github.com/awkman/pywifi
 - intro.html : https://websockets.readthedocs.io/en/stable/intro.html
 - simple-websocket-server : https://github.com/dpallot/simple-websocket-server
 - warpdrive : https://github.com/GrahamDumpleton/warpdrive
-- latest : http://warpdrive.readthedocs.io/en/latest/
+- warpdrive : http://warpdrive.readthedocs.io/en/latest/
 - putio-automator : https://github.com/datashaman/putio-automator
-- latest : https://nox.readthedocs.io/en/latest/
-- configuration.html : https://flake8.readthedocs.io/en/latest/user/configuration.html
+- nox : https://nox.readthedocs.io/en/latest/
+- flake8 configuration : https://flake8.readthedocs.io/en/latest/user/configuration.html
 - hasgeek : https://github.com/hasgeek
 - www.sayonetech.com : https://www.sayonetech.com/
 - python-development-india : https://www.aalpha.net/tech-expertise/python-development-india/
@@ -316,18 +315,18 @@ https://github.com/davidhalter/jedi
 - scrabble : https://github.com/benjamincrom/scrabble
 - subtitle-downloader : https://github.com/manojmj92/subtitle-downloader
 - imdb : https://github.com/manojmj92/imdb
-- #Download : https://www.crummy.com/software/BeautifulSoup/#Download
+- BeautifulSoup : https://www.crummy.com/software/BeautifulSoup/#Download
 - project_euler : https://github.com/dhruvbaldawa/project_euler
-- blog : http://www.dhruvb.com/blog/
+- dhruvb blog : http://www.dhruvb.com/blog/
 - gcm-server.py : https://github.com/dhruvbaldawa/android_gcm/blob/master/gcm-server.py
 - sms : https://github.com/dhruvbaldawa/Tutorials/tree/master/sms
-- master : https://github.com/tanmay2893/Image-Sorting/tree/master
+- Image-Sorting : https://github.com/tanmay2893/Image-Sorting/tree/master
 - fillerhide : https://github.com/shinigamiryuk/utility-scripts/blob/master/fillerhide
 - LinkedInMailing : https://github.com/karangurnani/LinkedInMailing
 - PypLebKV : http://pastebin.com/PypLebKV
 - E3vVr4 : http://ideone.com/E3vVr4
 - follow-sync : https://github.com/kirsle/follow-sync
-- 0.0.2 : https://pypi.python.org/pypi/pipfile/0.0.2
+- pipfile : https://pypi.python.org/pypi/pipfile/
 - trio : https://github.com/python-trio/trio/
 - newspaper# : https://github.com/codelucas/newspaper#
 - instarch : https://github.com/marvelhoax/instarch
@@ -342,7 +341,7 @@ https://github.com/davidhalter/jedi
 - model_mommy : https://github.com/vandersonmota/model_mommy
 - releases : https://github.com/Microsoft/PTVS/releases
 - LegendasTV-Downloader : https://github.com/NiJoao/LegendasTV-Downloader
-- en : https://www.django-cms.org/en/
+- djang-cms : https://www.django-cms.org/en/
 - FacebookGraphAPI-Examples : https://github.com/nikhilkumarsingh/FacebookGraphAPI-Examples
 - barcode.html#creating-barcodes-as-image : http://pythonhosted.org/pyBarcode/barcode.html#creating-barcodes-as-image
 - Votr : https://github.com/danidee10/Votr
@@ -355,37 +354,36 @@ https://github.com/davidhalter/jedi
 - Lollypop is a new GNOME music playing application.
 https://github.com/gnumdk/lollypop
 - lollypop-portal : https://github.com/gnumdk/lollypop-portal
-- 3.2.2 : https://pypi.python.org/pypi/nltk/3.2.2
+- nltk : https://pypi.python.org/pypi/nltk/
 - scipys-new-lowlevelcallable-is-a-game-changer : https://ilovesymposia.com/2017/03/12/scipys-new-lowlevelcallable-is-a-game-changer/
 - Tornado-Async-STT : https://github.com/DominguesM/Tornado-Async-STT
-- latest : https://pyautogui.readthedocs.io/en/latest/
+- pyautogui : https://pyautogui.readthedocs.io/en/latest/
 - pywinauto.github.io : https://pywinauto.github.io/
 - www.sikuli.org : http://www.sikuli.org/
 - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 https://github.com/hhatto/autopep8
 - Python PDF Parser
-https://github.com/euske/pdfminer
-https://euske.github.io/pdfminer/
-https://github.com/jaepil/pdfminer3k
+- pdfminer : https://github.com/euske/pdfminer
+- pdfminer3k : https://github.com/jaepil/pdfminer3k
 - pyPdf : http://pybrary.net/pyPdf/
 - shodan-python : https://github.com/achillean/shodan-python
 - strftime.org : http://strftime.org/
 - Web-Browser : https://github.com/nickgermaine/Web-Browser
 - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL:   https://github.com/maartenbreddels/ipyvolume
-- index.html : https://conda.io/docs/index.html
+- conda : https://conda.io/docs/index.html
 - ONIOFF - Onion URL Inspector A simple tool - written in pure python - for inspecting Deep Web URLs (or onions). It takes specified
 onion links and returns their current status along with the site's title.
 https://github.com/k4m4/onioff
 - Easy Html Parser is an AST generator for html/xml documents. You can easily delete/insert/extract tags in
 html/xml documents as well as look for patterns.
 https://github.com/iogf/ehp
-- navigating.html : http://selenium-python.readthedocs.io/navigating.html
+- selenium navigating : http://selenium-python.readthedocs.io/navigating.html
 - InsideReCaptcha : https://github.com/neuroradiology/InsideReCaptcha
 - Eigenstyle : https://github.com/graceavery/Eigenstyle
 - PyRarCrack : https://github.com/z4r4tu5tr4/PyRarCrack
-- www.python-excel.org : http://www.python-excel.org/
-- latest : https://apscheduler.readthedocs.io/en/latest/
-- index.html : http://www.greenteapress.com/thinkpython/swampy/index.html
+- python-excel.org : http://www.python-excel.org/
+- apscheduler : https://apscheduler.readthedocs.io/en/latest/
+- swampy : http://www.greenteapress.com/thinkpython/swampy/index.html
 - Software to automate the management and configuration of any infrastructure or application at scale.
 Get access to the Salt software package repository here: https://repo.saltstack.com
 https://github.com/saltstack/salt
@@ -394,8 +392,8 @@ https://github.com/DonerKebab/SampleLoadTesting
 - Virtual IP Routing Services over OpenFlow networks http://routeflow.github.io/RouteFlow/
 https://github.com/anhsirksai/RouteFlow/tree/vandervecken
 https://github.com/routeflow/RouteFlow
-- quickstart.html : http://python-docx.readthedocs.io/en/latest/user/quickstart.html
-- latest : https://dataset.readthedocs.io/en/latest/
+- python-docx : http://python-docx.readthedocs.io/en/latest/user/quickstart.html
+- dataset : https://dataset.readthedocs.io/en/latest/
 - ArgParseInator : https://pypi.python.org/pypi/ArgParseInator
 - http://www.google.co.in/search?q=uml&client=ms-opera-mini&channel=new&gws_rd=cr&ei=8C7wWIy9C4ezaaexsMgF
 - Image-to-image translation using conditional adversarial nets:    https://github.com/phillipi/pix2pix
