@@ -11,3 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run linksafe
         uses: TechWiz-3/linksafe@v2
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
